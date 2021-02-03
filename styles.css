@@ -68,6 +68,9 @@ hr {
     right: 300px;
     top: 40px;
 }
+.mountainpic {
+    max-width: 100%;
+}
 .profilepicture {
     padding-top: 55px;
     height: 150px;
@@ -130,13 +133,6 @@ hr {
     font-size: .75rem;
     color: #9ba4b4;
   }
-  @media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    [class*="col-"] {
-      width: 100%;
-    }
-  }
-
   .logo, .collegeinfo {
       width: 50%;
   }
