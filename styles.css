@@ -5,6 +5,7 @@ body {
     font-family: 'Merriweather', serif;
     min-width: 100%;
     position: absolute;
+    overflow-x: hidden;
 }
 h1 {
     margin-top: 50px auto 0 auto;
