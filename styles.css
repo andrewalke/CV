@@ -134,3 +134,7 @@ hr {
       width: 100%;
     }
   }
+
+  .logo, .collegeinfo {
+      width: 50%;
+  }
